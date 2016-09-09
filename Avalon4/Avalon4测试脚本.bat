@@ -1,0 +1,1 @@
+python avalon4-core-test.py -V 7750 -F 400
